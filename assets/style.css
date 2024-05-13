@@ -75,6 +75,7 @@ a {
 .name {
     font-size: 165%;
     font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 
 a:hover {
