@@ -1,0 +1,79 @@
+:root {
+    --main: #1d1c1c;
+    --accent: #438aa7;
+    --hover: #ffffff;
+    --text: #e8e5e5;
+}
+
+body {
+    color: var(--text);
+    background-color: var(--main);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.topbar {
+    padding: 10px;
+    background-color: var(--accent); 
+    height: 30px;
+    margin-top: -8px;
+    margin-left: -8px;
+    color: var(--main);
+    font-size: 110%;
+    font-weight: bold;
+	position: relative;
+    width: 99.7%;
+}
+
+.bottombar {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    padding: 10px;
+    background-color: var(--accent); 
+    width: auto;
+    height: 18px;
+    color: var(--main);
+    font-size: small;
+    font-weight: bold;
+    position: fixed;
+    z-index: 100; 
+    bottom: 0; 
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.bottombar a {
+    color: var(--main);
+}
+
+.topbar-left {
+    float: left;
+    color: var(--main);
+    margin-top: 2.5px;
+}
+
+.topbar-rigth {
+    float: right;
+    color: var(--main);
+    margin-top: 2.5px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--accent);
+    font-size: larger;
+}
+
+.name {
+    font-size: x-large;
+}
+
+a:hover {
+    color: var(--hover);
+}
+
+b {
+    font-size: larger;
+}
