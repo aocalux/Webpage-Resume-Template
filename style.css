@@ -1,6 +1,7 @@
 :root {
     --main: #1d1c1c;
     --accent: #438aa7;
+    --active: #ececec;
     --hover: #ffffff;
     --text: #e8e5e5;
 }
@@ -64,6 +65,10 @@ a {
     text-decoration: none;
     color: var(--accent);
     font-size: larger;
+}
+
+.isActive {
+    color: var(--active);
 }
 
 .name {
