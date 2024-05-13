@@ -57,7 +57,7 @@ body {
 .topbar-rigth {
     float: right;
     color: var(--main);
-    margin-top: 2.5px;
+    margin-top: 4.5px;
 }
 
 a {
