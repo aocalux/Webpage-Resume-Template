@@ -28,7 +28,7 @@ body {
     font-size: 112%;
     font-weight: bold;
 	position: relative;
-    width: 99.7%;
+    width: 99.6%;
 }
 
 .bottombar {
@@ -46,7 +46,7 @@ body {
     z-index: 100; 
     bottom: 0; 
     left: 0;
-    width: 100%;
+    width: 99.4%;
     text-align: center;
 }
 
