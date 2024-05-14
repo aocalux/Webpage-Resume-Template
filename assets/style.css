@@ -15,10 +15,9 @@ body {
 }
 
 .pagecontent {
-    margin-left: 18px;
-    margin-right: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
-
 
 .topbar {
     padding: 10px;
@@ -91,4 +90,4 @@ a:hover {
 
 b {
     font-size: larger;
-}
+}   
