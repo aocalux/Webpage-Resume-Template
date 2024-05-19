@@ -10,7 +10,7 @@ Welcome to the Webpage Resume Template project! This is a simple, easy-to-edit t
 
 ## Demo
 
-Check out a live demo of the template at: [https://john-smith.a0x.nl](https://john-smith.a0x.nl)
+Check out a live demo of the template at: [http://john-smith.a0x.nl](http://john-smith.a0x.nl)
 
 ## Installation
 
