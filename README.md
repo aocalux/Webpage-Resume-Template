@@ -10,7 +10,7 @@ Welcome to the Webpage Resume Template project! This is a simple, easy-to-edit t
 Check out a live demo of the template at: [http://john-smith.com.a0x.nl](http://john-smith.com.a0x.nl)
 
 ## Installation
-1. **Download the Template**: Download the latest release to your local machine.
+1. **Download the Template**: [Download](https://github.com/aocalux/Webpage-Resume-Template/releases) the latest release to your local machine.
 
 2. **Edit the HTML and CSS**: Open the files in your preferred text editor and replace the sample information with your own details.
     - `*.html`: Change the name John Smith to your full name.
