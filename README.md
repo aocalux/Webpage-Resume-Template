@@ -20,6 +20,7 @@ Check out a live demo of the template at: [http://john-smith.a0x.nl](http://john
     ```
 
 2. **Edit the HTML and CSS**: Open the files in your preferred text editor and replace the sample information with your own details.
+    - `*.html`: Change the name John Smith to your full name.
     - `index.html`: Update with your personal information.
     - `Experience-and-Education.html`: Add you experience and educationaly backround.
     - `Social-Media.html`: Add you scoial media accounts.
