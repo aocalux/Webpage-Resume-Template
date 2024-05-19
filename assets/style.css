@@ -21,14 +21,14 @@ body {
 
 .topbar {
     padding: 10px;
-    background-color: var(--accent); 
+    background-color: var(--accent);
     height: 38px;
     margin-top: -8px;
     margin-left: -8px;
     color: var(--navText);
     font-size: 112%;
     font-weight: bold;
-	position: relative;
+    position: relative;
     width: 99.6%;
 }
 
@@ -37,15 +37,15 @@ body {
     position: fixed;
     bottom: 0;
     padding: 10px;
-    background-color: var(--accent); 
+    background-color: var(--accent);
     width: auto;
     height: 18px;
     color: var(--navText);
     font-size: small;
     font-weight: bold;
     position: fixed;
-    z-index: 100; 
-    bottom: 0; 
+    z-index: 100;
+    bottom: 0;
     left: 0;
     width: 99.4%;
     text-align: center;
@@ -90,4 +90,4 @@ a:hover {
 
 b {
     font-size: larger;
-}   
+}
