@@ -49,6 +49,6 @@ This template is intended for individuals looking to create a simple and elegant
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
------
+##
 
 Feel free to reach out if you have any questions or need further assistance. Enjoy your new personal webpage!
