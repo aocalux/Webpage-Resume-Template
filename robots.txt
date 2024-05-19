@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /clickAction/
+Disallow: /.gitignore
+Disallow: /404.html
+Disallow: /Copyright.html
+Disallow: /Imprint.html
+Disallow: /LICENSE
+Disallow: /README.md
