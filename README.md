@@ -43,4 +43,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out if you have any questions or need further assistance. Enjoy your new personal webpage!
 
 ##
-If you have suggestions for improvement please email me at [info@chris-prickartz.de](mailto:info@chris-prickartz.de). I will NOT react to GitHub Issues or random Pull requests.
+If you have suggestions for improvement please email. I will NOT react to GitHub Issues or random Pull requests.
