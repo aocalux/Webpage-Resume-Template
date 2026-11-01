@@ -6,9 +6,6 @@ Welcome to the Webpage Resume Template project! This is a simple, easy-to-edit t
 - **Easy to Edit**: Easily replace the sample information with your own details if you have basic knowledge of HTML and CSS.
 - **Future-Proof**: Planned updates will include full responsiveness for mobile and tablet devices.
 
-## Demo
-Check out a live demo of the template at: [http://john-smith.com.a0x.nl](http://john-smith.com.a0x.nl)
-
 ## Installation
 1. **Download the Template**: [Download](https://github.com/aocalux/Webpage-Resume-Template/releases) the latest release to your local machine.
 
